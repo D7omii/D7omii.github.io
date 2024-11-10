@@ -432,6 +432,12 @@ ul {
     padding: 20px;
 }
 
+@media (min-width: 991px) {
+    .projects .box .content {
+        height: 120px;
+    }
+}
+
 .projects .box .content h3 {
     margin: 0;
 }
@@ -543,7 +549,7 @@ ul {
     text-align: center;
     font-size: 25px;
     color: var(--main-color);
-    margin: 20px 0 40px;
+    margin: 20px 15px 40px;
 }
 
 .services .box .info {
@@ -704,18 +710,18 @@ ul {
     -o-transition: var(--main-transition-duration);
 }
 
-.contact .social .facebook:hover {
-    background-color: #1877f2;
+.contact .social .github:hover {
+    background-color: #333;
+    color: white;
+}
+
+.contact .social .linkedin:hover {
+    background-color: #0a66c2;
     color: white;
 }
 
 .contact .social .x-twitter:hover {
     background-color: #14171a;
-    color: white;
-}
-
-.contact .social .youtube:hover {
-    background-color: #ff0000;
     color: white;
 }
 
