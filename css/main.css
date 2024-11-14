@@ -725,6 +725,11 @@ ul {
     color: white;
 }
 
+.contact .social .email:hover {
+    background-color: #52bad5;
+    color: white;
+}
+
 .contact .text {
     line-height: 2;
     color: #777;
