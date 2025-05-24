@@ -1,0 +1,12 @@
+{
+    "logo":"Abdulrahman",
+    "projects":"Projects",
+    "skills":"Skills",
+    "contact":"Contact",
+    "landing-header":"Hello, I am Abdulrahman",
+    "landing-p":"<span>Front-end developer</span>Here I'm goning to share everything about me.",
+    "show":"Show live",
+    "arrow":"<i class=\"fa-solid fa-arrow-right-long\"></i>",
+    "contact-txt":"You can find me here",
+    "copyright":"Made With <i class=\"fa-solid fa-heart\"></i> By Abdulrahman"
+}
